@@ -8,8 +8,11 @@ Pour coder rapidement tout en personalisant son contenu.
 Dans chaque projet tout est paramétrer pour avoir la structure suivante dans chaque page html
 
 body
+
     header //Qui va contenir les menus
+
     content // Qui va contenir tous les éléments de notre site
+    
     footer // Qui va contenir les mentions, réseaux sociaux etc..
 
 Pour connecter "Speed Css" à son projet: 
