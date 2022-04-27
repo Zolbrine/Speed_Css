@@ -33,7 +33,6 @@ center  : Permets de centrer un élément
 float_r : Permets de déplacer un élément tout à droite
 
 ----------------------------------------------------------------------
-
 # Comment mettre de la couleur en arrière plan ?
 
 back_red    : Permets de mettre l'arrière plan en rouge.
@@ -59,7 +58,6 @@ back_brown  : Permets de mettre l'arrière plan en marron.
 back_white  : Permets de mettre l'arrière plan en blanc.
 
 ----------------------------------------------------------------------
-
 # Comment mettre de la couleur dans son texte ?
 
 txt_red    : Permets de mettre le texte en rouge.
@@ -85,7 +83,6 @@ txt_brown  : Permets de mettre le texte en marron.
 txt_white  : Permets de mettre le texte en blanc.
 
 ----------------------------------------------------------------------
-
 # Comment mettre de la couleur dans son texte ?
 
 txt_center  : Permets de centrer un texte.
