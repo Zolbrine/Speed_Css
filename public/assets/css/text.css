@@ -75,3 +75,59 @@
 .txt_size30{
     font-size: var(--prc130);
 }
+
+.txt_size35{
+    font-size: var(--prc135);
+}
+
+.txt_size40{
+    font-size: var(--prc140);
+}
+
+.txt_size45{
+    font-size: var(--prc145);
+}
+
+.txt_size50{
+    font-size: var(--prc150);
+}
+
+.txt_size55{
+    font-size: var(--prc155);
+}
+
+.txt_size60{
+    font-size: var(--prc160);
+}
+
+.txt_size65{
+    font-size: var(--prc165);
+}
+
+.txt_size70{
+    font-size: var(--prc170);
+}
+
+.txt_size75{
+    font-size: var(--prc175);
+}
+
+.txt_size80{
+    font-size: var(--prc180);
+}
+
+.txt_size85{
+    font-size: var(--prc185);
+}
+
+.txt_size90{
+    font-size: var(--prc190);
+}
+
+.txt_size95{
+    font-size: var(--prc195);
+}
+
+.txt_size100{
+    font-size: var(--prc200);
+}
