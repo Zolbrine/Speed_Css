@@ -1,3 +1,5 @@
+![Speed Css](public/assets/images/speed_css.png)
+
 # Pourquoi utiliser speed css ?
 Pour coder rapidement tout en personalisant son contenu.
 
