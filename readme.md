@@ -109,8 +109,11 @@ mrg + valeur + option
 Liste des options:
 
 _l = left
+
 _r = right
+
 _t = top
+
 _b = bottom
 
 Exemple: mrg100_l = margin-left: 100%;
