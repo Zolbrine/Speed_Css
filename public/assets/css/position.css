@@ -24,5 +24,9 @@
 }
 
 .float_r{
-    float: var(--float);
+    float: var(--float_r);
+}
+
+.float_l{
+    float: var(--float_l);
 }

@@ -6,7 +6,8 @@
     --center: center;
     --col: column;
     --grow: 1; 
-    --float: right;
+    --float_r: right;
+    --float_l: left; /*Par défaut à gauche*/
 
     /*Toutes les couleurs principales*/
     --red: rgb(255, 63, 63);

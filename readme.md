@@ -34,6 +34,8 @@ center  : Permets de centrer un élément
 
 float_r : Permets de déplacer un élément tout à droite
 
+float_l : Permets de déplacer un élément tout à gauche (valeur par défaut)
+
 ----------------------------------------------------------------------
 # Comment mettre de la couleur en arrière plan ?
 
