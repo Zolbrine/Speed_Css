@@ -13,7 +13,7 @@ On inclus dans le head config.css:
 
 Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css | style.css
 
-------------------------------------------------------------------------
+----------------------------------------------------------------------
 Comment espacer des éléments (Mettre class="" dans une div)?
 
 space_1 | Permets d'espacer des éléments autour.
@@ -22,7 +22,7 @@ col     | Permets de mettre des éléments en colone
 center  | Permets de centrer un élément
 float_r | Permets de déplacer un élément tout à droite
 
-------------------------------------------------------------------------
+----------------------------------------------------------------------
 Comment mettre de la couleur en arrière plan ?
 
 back_red    | Permets de mettre l'arrière plan en rouge.
@@ -82,7 +82,7 @@ _t = top
 _b = bottom
 
 Exemple: mrg100_l = margin-left: 100%;
-------------------------------------------------------------------------
+----------------------------------------------------------------------
 Comment mettre de la marge sur mes éléments sur la partie intérieure ?
 
 pad + valeur + option
