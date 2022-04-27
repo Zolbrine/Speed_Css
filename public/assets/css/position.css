@@ -1,0 +1,24 @@
+/*
+|||||||||||||||||||||||||
+|| Espacements de divs ||
+|||||||||||||||||||||||||
+*/
+.space_1{
+    display: var(--flex);
+    justify-content: var(--space_1);
+}
+
+.space_2{
+    display: var(--flex);
+    justify-content: var(--space_2);
+}
+
+.col{
+    display: var(--flex);
+    flex-direction: var(--col);
+}
+
+.center{
+    display: var(--flex);
+    justify-content: var(--center);
+}

@@ -1,0 +1,84 @@
+/*
+|||||||||||||||||||
+|| Padding-Right ||
+|||||||||||||||||||
+*/
+.pad5_r{
+    padding-right: var(--prc5);
+}
+
+.pad10_r{
+    padding-right: var(--prc10);
+}
+
+.pad15_r{
+    padding-right: var(--prc15);
+}
+
+.pad20_r{
+    padding-right: var(--prc20);
+}
+
+.pad25_r{
+    padding-right: var(--prc25);
+}
+
+.pad30_r{
+    padding-right: var(--prc30);
+}
+
+.pad35_r{
+    padding-right: var(--prc35);
+}
+
+.pad40_r{
+    padding-right: var(--prc40);
+}
+
+.pad45_r{
+    padding-right: var(--prc45);
+}
+
+.pad50_r{
+    padding-right: var(--prc50);
+}
+
+.pad55_r{
+    padding-right: var(--prc55);
+}
+
+.pad60_r{
+    padding-right: var(--prc60);
+}
+
+.pad65_r{
+    padding-right: var(--prc65);
+}
+
+.pad70_r{
+    padding-right: var(--prc70);
+}
+
+.pad75_r{
+    padding-right: var(--prc75);
+}
+
+.pad80_r{
+    padding-right: var(--prc80);
+}
+
+.pad85_r{
+    padding-right: var(--prc85);
+}
+
+.pad90_r{
+    padding-right: var(--prc0);
+}
+
+.pad95_r{
+    padding-right: var(--prc95);
+}
+
+.pad100_r{
+    padding-right: var(--prc100);
+}

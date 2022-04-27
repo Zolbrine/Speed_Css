@@ -1,0 +1,48 @@
+/*
+|||||||||||||||||||||||
+|| Backgrounds Color ||
+|||||||||||||||||||||||
+*/
+.back_red{
+    background: var(--red);
+}
+
+.back_blue{
+    background: var(--blue);
+}
+
+.back_green{
+    background: var(--green);
+}
+
+.back_yellow{
+    background: var(--yellow);
+}
+
+.back_orange{
+    background: var(--orange);
+}
+
+.back_black{
+    background: var(--black);
+}
+
+.back_grey{
+    background: var(--grey);
+}
+
+.back_purple{
+    background: var(--purple);
+}
+
+.back_pink{
+    background: var(--pink);
+}
+
+.back_brown{
+    background: var(--brown);
+}
+
+.back_white{
+    background: var(--white);
+}

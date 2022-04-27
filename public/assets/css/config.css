@@ -1,0 +1,32 @@
+/*Mes variables*/
+@import "var.css";
+
+/*Positionnement des éléments à l'intéreur d'une div*/
+@import "position.css";
+
+/*Les couleurs des backgrouds*/
+@import "backgrounds.css";
+
+/*Les couleurs des textes*/
+@import "text.css";
+
+/*Les tailles en largeur*/
+@import "width.css";
+
+/*Les tailles en hauteur*/
+@import "height.css";
+
+/*Les paramètres de projet*/
+@import "projet.css";
+
+/*Les marges*/
+@import "margin_top.css";
+@import "margin_right.css";
+@import "margin_bottom.css";
+@import "margin_left.css";
+
+/*Les marges intérieures*/
+@import "padding_top.css";
+@import "padding_right.css";
+@import "padding_bottom.css";
+@import "padding_left.css";

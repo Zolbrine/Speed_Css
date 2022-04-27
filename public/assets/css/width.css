@@ -1,0 +1,79 @@
+.w5{
+    width: var(--prc5);
+}
+
+.w10{
+    width: var(--prc10);
+}
+
+.w15{
+    width: var(--prc15);
+}
+
+.w20{
+    width: var(--prc20);
+}
+
+.w25{
+    width: var(--prc25);
+}
+
+.w30{
+    width: var(--prc30);
+}
+
+.w35{
+    width: var(--prc35);
+}
+
+.w40{
+    width: var(--prc40);
+}
+
+.w45{
+    width: var(--prc45);
+}
+
+.w50{
+    width: var(--prc50);
+}
+
+.w55{
+    width: var(--prc55);
+}
+
+.w60{
+    width: var(--prc60);
+}
+
+.w65{
+    width: var(--prc65);
+}
+
+.w70{
+    width: var(--prc70);
+}
+
+.w75{
+    width: var(--prc75);
+}
+
+.w80{
+    width: var(--prc80);
+}
+
+.w85{
+    width: var(--prc85);
+}
+
+.w90{
+    width: var(--prc90);
+}
+
+.w95{
+    width: var(--prc95);
+}
+
+.w100{
+    width: var(--prc100);
+}

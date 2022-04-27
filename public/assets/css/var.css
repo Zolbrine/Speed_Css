@@ -1,0 +1,55 @@
+:root{
+    /*Déclaration des espacements*/
+    --flex: flex;
+    --space_1: space-around; 
+    --space_2: space-between; 
+    --center: center;
+    --col: column;
+    --grow: 1; 
+
+    /*Toutes les couleurs principales*/
+    --red: rgb(255, 63, 63);
+    --blue: rgb(107, 196, 255);
+    --green: rgb(78, 255, 78);
+    --yellow: rgb(255, 255, 117);
+    --orange: rgb(255, 201, 100);
+    --black: rgb(81, 81, 81);
+    --grey: rgb(202, 202, 202);
+    --purple: rgb(255, 131, 255);
+    --pink: rgb(255, 184, 196);
+    --brown: rgb(199, 143, 116);
+    --white: white;
+
+    /*Tailles en pourcentage*/
+    --prc0_auto: 0% auto;
+    --prc0: 0%;
+    --prc5: 5%;
+    --prc10: 10%;
+    --prc15: 15%;
+    --prc20: 20%;
+    --prc25: 25%;
+    --prc30: 30%;
+    --prc35: 35%;
+    --prc40: 40%;
+    --prc45: 45%;
+    --prc50: 50%;
+    --prc55: 55%;
+    --prc60: 60%;
+    --prc65: 65%;
+    --prc70: 70%;
+    --prc75: 75%;
+    --prc80: 80%;
+    --prc85: 85%;
+    --prc90: 90%;
+    --prc95: 95%;
+    --prc100: 100%;
+    --prc105: 105%;
+    --prc110: 110%;
+    --prc115: 115%;
+    --prc120: 120%;
+    --prc125: 125%;
+    --prc130: 130%;
+
+    /*Tailles en vh*/
+    --vh100: 100vh;
+}

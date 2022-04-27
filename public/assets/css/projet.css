@@ -1,0 +1,21 @@
+/*
+||||||||||||||||||||||||||
+|| Paramètres de projet ||
+||||||||||||||||||||||||||
+*/
+body{
+    display: var(--flex);
+    justify-content: var(--space_2);
+    flex-direction: var(--col);
+    min-height: var(--vh100);
+    margin: var(--prc0_auto);
+    padding: var(--prc0_auto);
+}
+
+.content{
+    flex-grow: var(--grow);
+}
+
+a{
+    text-decoration: none;
+}

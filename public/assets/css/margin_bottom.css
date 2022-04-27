@@ -1,0 +1,84 @@
+/*
+|||||||||||||||||||
+|| Margin-Bottom ||
+|||||||||||||||||||
+*/
+.mrg5_b{
+    margin-bottom: var(--prc5);
+}
+
+.mrg10_b{
+    margin-bottom: var(--prc10);
+}
+
+.mrg15_b{
+    margin-bottom: var(--prc15);
+}
+
+.mrg20_b{
+    margin-bottom: var(--prc20);
+}
+
+.mrg25_b{
+    margin-bottom: var(--prc25);
+}
+
+.mrg30_b{
+    margin-bottom: var(--prc30);
+}
+
+.mrg35_b{
+    margin-bottom: var(--prc35);
+}
+
+.mrg40_b{
+    margin-bottom: var(--prc40);
+}
+
+.mrg45_b{
+    margin-bottom: var(--prc45);
+}
+
+.mrg50_b{
+    margin-bottom: var(--prc50);
+}
+
+.mrg55_b{
+    margin-bottom: var(--prc55);
+}
+
+.mrg60_b{
+    margin-bottom: var(--prc60);
+}
+
+.mrg65_b{
+    margin-bottom: var(--prc65);
+}
+
+.mrg70_b{
+    margin-bottom: var(--prc70);
+}
+
+.mrg75_b{
+    margin-bottom: var(--prc75);
+}
+
+.mrg80_b{
+    margin-bottom: var(--prc80);
+}
+
+.mrg85_b{
+    margin-bottom: var(--prc85);
+}
+
+.mrg90_b{
+    margin-bottom: var(--prc90);
+}
+
+.mrg95_b{
+    margin-bottom: var(--prc95);
+}
+
+.mrg100_b{
+    margin-bottom: var(--prc100);
+}

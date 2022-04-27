@@ -1,0 +1,77 @@
+/*
+|||||||||||||||||
+|| Texte Color ||
+|||||||||||||||||
+*/
+.txt_red{
+    color: var(--red);
+}
+
+.txt_blue{
+    color: var(--blue);
+}
+
+.txt_green{
+    color: var(--green);
+}
+
+.txt_yellow{
+    color: var(--yellow);
+}
+
+.txt_orange{
+    color: var(--orange);
+}
+
+.txt_black{
+    color: var(--black);
+}
+
+.txt_grey{
+    color: var(--grey);
+}
+
+.txt_purple{
+    color: var(--purple);
+}
+
+.txt_pink{
+    color: var(--pink);
+}
+
+.txt_brown{
+    color: var(--brown);
+}
+
+.txt_white{
+    color: var(--white);
+}
+
+/* Text_ Params*/
+.txt_center{
+    text-align: var(--center);
+}
+
+.txt_size5{
+    font-size: var(--prc105);
+}
+
+.txt_size10{
+    font-size: var(--prc110);
+}
+
+.txt_size15{
+    font-size: var(--prc115);
+}
+
+.txt_size20{
+    font-size: var(--prc120);
+}
+
+.txt_size25{
+    font-size: var(--prc125);
+}
+
+.txt_size30{
+    font-size: var(--prc130);
+}

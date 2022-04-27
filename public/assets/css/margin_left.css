@@ -1,0 +1,84 @@
+/*
+|||||||||||||||||
+|| Margin-Left ||
+|||||||||||||||||
+*/
+.mrg5_l{
+    margin-left: var(--prc5);
+}
+
+.mrg10_l{
+    margin-left: var(--prc10);
+}
+
+.mrg15_l{
+    margin-left: var(--prc15);
+}
+
+.mrg20_l{
+    margin-left: var(--prc20);
+}
+
+.mrg25_l{
+    margin-left: var(--prc25);
+}
+
+.mrg30_l{
+    margin-left: var(--prc30);
+}
+
+.mrg35_l{
+    margin-left: var(--prc35);
+}
+
+.mrg40_l{
+    margin-left: var(--prc40);
+}
+
+.mrg45_l{
+    margin-left: var(--prc45);
+}
+
+.mrg50_l{
+    margin-left: var(--prc50);
+}
+
+.mrg55_l{
+    margin-left: var(--prc55);
+}
+
+.mrg60_l{
+    margin-left: var(--prc60);
+}
+
+.mrg65_l{
+    margin-left: var(--prc65);
+}
+
+.mrg70_l{
+    margin-left: var(--prc70);
+}
+
+.mrg75_l{
+    margin-left: var(--prc75);
+}
+
+.mrg80_l{
+    margin-left: var(--prc80);
+}
+
+.mrg85_l{
+    margin-left: var(--prc85);
+}
+
+.mrg90_l{
+    margin-left: var(--prc90);
+}
+
+.mrg95_l{
+    margin-left: var(--prc95);
+}
+
+.mrg100_l{
+    margin-left: var(--prc100);
+}
