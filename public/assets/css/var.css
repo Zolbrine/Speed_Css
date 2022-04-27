@@ -21,6 +21,9 @@
     --brown: rgb(199, 143, 116);
     --white: white;
 
+    /*Enlever la bordure*/
+    --none: none;
+
     /*Tailles en pourcentage*/
     --prc0_auto: 0% auto;
     --prc0: 0%;
@@ -55,5 +58,5 @@
     --vh100: 100vh;
 
     /*Tailles en pixels*/
-    --px: 10px;
+    --px10: 10px;
 }

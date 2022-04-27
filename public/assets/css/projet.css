@@ -17,5 +17,9 @@ body{
 }
 
 a{
-    text-decoration: none;
+    text-decoration: var(--none);
+}
+
+button{
+    border: var(--none);
 }
