@@ -6,6 +6,7 @@
     --center: center;
     --col: column;
     --grow: 1; 
+    --float: right;
 
     /*Toutes les couleurs principales*/
     --red: rgb(255, 63, 63);

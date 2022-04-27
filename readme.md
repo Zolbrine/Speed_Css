@@ -6,8 +6,9 @@ body
     content // Qui va contenir tous les éléments de notre site
     footer // Qui va contenir les mentions, réseaux sociaux etc..
 
-Pour connecter BootsZolbrine à son projet on inclus dans le head:
+Pour connecter "Speed Css" à son projet: 
 
+On inclus dans le head config.css:
 <link rel="stylesheet" href="public/assets/css/config.css">
 
 Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css | style.css
@@ -19,6 +20,7 @@ space_1 | Permets d'espacer des éléments autour.
 space_2 | Permets de espacer des éléments mais 2 collés aux extrémités.
 col     | Permets de mettre des éléments en colone
 center  | Permets de centrer un élément
+float_r | Permets de déplacer un élément tout à droite
 
 ------------------------------------------------------------------------
 Comment mettre de la couleur en arrière plan ?
