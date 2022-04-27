@@ -3,6 +3,22 @@
 || Padding-Bottom ||
 ||||||||||||||||||||
 */
+.pad1_b{
+    padding-bottom: var(--prc1);
+}
+
+.pad2_b{
+    padding-bottom: var(--prc2);
+}
+
+.pad3_b{
+    padding-bottom: var(--prc3);
+}
+
+.pad4_b{
+    padding-bottom: var(--prc4);
+}
+
 .pad5_b{
     padding-bottom: var(--prc5);
 }

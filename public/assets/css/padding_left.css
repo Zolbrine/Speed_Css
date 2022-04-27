@@ -3,6 +3,22 @@
 || Padding-Left ||
 ||||||||||||||||||
 */
+.pad1_l{
+    padding-left: var(--prc1);
+}
+
+.pad2_l{
+    padding-left: var(--prc2);
+}
+
+.pad3_l{
+    padding-left: var(--prc3);
+}
+
+.pad4_l{
+    padding-left: var(--prc4);
+}
+
 .pad5_l{
     padding-left: var(--prc5);
 }

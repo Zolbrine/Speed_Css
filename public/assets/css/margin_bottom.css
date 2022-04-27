@@ -3,6 +3,22 @@
 || Margin-Bottom ||
 |||||||||||||||||||
 */
+.mrg1_b{
+    margin-bottom: var(--prc1);
+}
+
+.mrg2_b{
+    margin-bottom: var(--prc2);
+}
+
+.mrg3_b{
+    margin-bottom: var(--prc3);
+}
+
+.mrg4_b{
+    margin-bottom: var(--prc4);
+}
+
 .mrg5_b{
     margin-bottom: var(--prc5);
 }

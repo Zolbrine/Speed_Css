@@ -3,6 +3,22 @@
 || Margin-Right ||
 ||||||||||||||||||
 */
+.mrg1_r{
+    margin-right: var(--prc1);
+}
+
+.mrg2_r{
+    margin-right: var(--prc2);
+}
+
+.mrg3_r{
+    margin-right: var(--prc3);
+}
+
+.mrg4_r{
+    margin-right: var(--prc4);
+}
+
 .mrg5_r{
     margin-right: var(--prc5);
 }
