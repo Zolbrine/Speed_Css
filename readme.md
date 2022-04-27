@@ -1,3 +1,7 @@
+# Pourquoi utiliser speed css ?
+Pour coder rapidement tout en personalisant son contenu.
+
+----------------------------------------------------------------------
 # !!!Nous travaillons qu'avec des classes!!!
 Dans chaque projet tout est paramétrer pour avoir la structure suivante dans chaque page html
 
