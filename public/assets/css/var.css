@@ -53,4 +53,7 @@
 
     /*Tailles en vh*/
     --vh100: 100vh;
+
+    /*Tailles en pixels*/
+    --px: 10px;
 }

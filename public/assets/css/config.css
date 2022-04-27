@@ -30,3 +30,6 @@
 @import "padding_right.css";
 @import "padding_bottom.css";
 @import "padding_left.css";
+
+/*Personnalisation des bouttons*/
+@import "buttons.css";

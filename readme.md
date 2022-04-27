@@ -135,3 +135,10 @@ _t = top
 _b = bottom
 
 Exemple: pad100_l = padding-left: 100%;
+
+----------------------------------------------------------------------
+# Comment arrondir les bords ou tout le boutton
+
+btn_1 = border-radius: 10px;
+
+btn_2 = border-radius: 100%;
