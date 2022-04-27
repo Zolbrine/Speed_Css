@@ -11,52 +11,77 @@ Pour connecter "Speed Css" à son projet:
 On inclus dans le head config.css:
 <link rel="stylesheet" href="public/assets/css/config.css">
 
-Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css | style.css
+Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css ou style.css
 
 ----------------------------------------------------------------------
 Comment espacer des éléments (Mettre class="" dans une div)?
 
 space_1 : Permets d'espacer des éléments autour.
+
 space_2 : Permets de espacer des éléments mais 2 collés aux extrémités.
+
 col     : Permets de mettre des éléments en colone
+
 center  : Permets de centrer un élément
+
 float_r : Permets de déplacer un élément tout à droite
 
 ----------------------------------------------------------------------
 Comment mettre de la couleur en arrière plan ?
 
 back_red    : Permets de mettre l'arrière plan en rouge.
+
 back_blue   : Permets de mettre l'arrière plan en bleu.
+
 back_green  : Permets de mettre l'arrière plan en vert.
+
 back_yellow : Permets de mettre l'arrière plan en jaune.
+
 back_orange : Permets de mettre l'arrière plan en orange.
+
 back_black  : Permets de mettre l'arrière plan en black.
+
 back_grey   : Permets de mettre l'arrière plan en gris.
+
 back_purple : Permets de mettre l'arrière plan en violet.
+
 back_pink   : Permets de mettre l'arrière plan en rose.
+
 back_brown  : Permets de mettre l'arrière plan en marron.
+
 back_white  : Permets de mettre l'arrière plan en blanc.
 
 ----------------------------------------------------------------------
 Comment mettre de la couleur dans son texte ?
 
 txt_red    : Permets de mettre le texte en rouge.
+
 txt_blue   : Permets de mettre le texte en bleu.
+
 txt_green  : Permets de mettre le texte en vert.
+
 txt_yellow : Permets de mettre le texte en jaune.
+
 txt_orange : Permets de mettre le texte en orange.
+
 txt_black  : Permets de mettre le texte en black.
+
 txt_grey   : Permets de mettre le texte en gris.
+
 txt_purple : Permets de mettre le texte en violet.
+
 txt_pink   : Permets de mettre le texte en rose.
+
 txt_brown  : Permets de mettre le texte en marron.
+
 txt_white  : Permets de mettre le texte en blanc.
 
 ------------------------------------------------------------------------
 Comment mettre de la couleur dans son texte ?
 
-txt_center  | Permets de centrer un texte.
-txt_size5   | Permets de modifier la taille d'un texte. (txt_size + valeur) 5,10,15,20,25,30
+txt_center  : Permets de centrer un texte.
+
+txt_size5   : Permets de modifier la taille d'un texte. (txt_size + valeur) 5,10,15,20,25,30
 
 ----------------------------------------------------------------------
 Comment changer la hauteur ou la largeur d'un élément ?
@@ -64,9 +89,11 @@ Comment changer la hauteur ou la largeur d'un élément ?
 w | h | vh  + valeur
 
 exemple: w100 = width: 100%;
+
 exemple: h100 = height: 100%;
 
 Il existe que 100vh pour le moment en valeur
+
 exemple: vh100 = height: 100vh;
 
 ----------------------------------------------------------------------
@@ -90,8 +117,11 @@ pad + valeur + option
 Liste des options:
 
 _l = left
+
 _r = right
+
 _t = top
+
 _b = bottom
 
 Exemple: pad100_l = padding-left: 100%;
