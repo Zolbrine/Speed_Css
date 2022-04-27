@@ -3,6 +3,10 @@
 || Margin-Bottom ||
 |||||||||||||||||||
 */
+.mrg050_b{
+    margin-bottom: var(--prc050);
+}
+
 .mrg1_b{
     margin-bottom: var(--prc1);
 }

@@ -3,6 +3,10 @@
 || Margin-Top ||
 ||||||||||||||||
 */
+.mrg050_t{
+    margin-top: var(--prc050);
+}
+
 .mrg1_t{
     margin-top: var(--prc1);
 }

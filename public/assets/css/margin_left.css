@@ -3,6 +3,10 @@
 || Margin-Left ||
 |||||||||||||||||
 */
+.mrg050_l{
+    margin-left: var(--prc050);
+}
+
 .mrg1_l{
     margin-left: var(--prc1);
 }

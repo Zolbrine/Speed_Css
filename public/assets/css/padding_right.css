@@ -3,6 +3,10 @@
 || Padding-Right ||
 |||||||||||||||||||
 */
+.pad050_r{
+    padding-right: var(--prc050);
+}
+
 .pad1_r{
     padding-right: var(--prc1);
 }
