@@ -9,7 +9,9 @@ body
 Pour connecter "Speed Css" à son projet: 
 
 On inclus dans le head config.css:
+```
 <link rel="stylesheet" href="public/assets/css/config.css">
+```
 
 Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css ou style.css
 
