@@ -1,4 +1,4 @@
-!!!Nous travaillons qu'avec des classes!!!
+#!!!Nous travaillons qu'avec des classes!!!
 Dans chaque projet tout est paramétrer pour avoir la structure suivante dans chaque page html
 
 body
@@ -14,7 +14,7 @@ On inclus dans le head config.css:
 Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css ou style.css
 
 ----------------------------------------------------------------------
-Comment espacer des éléments (Mettre class="" dans une div)?
+#Comment espacer des éléments (Mettre class="" dans une div)?
 
 space_1 : Permets d'espacer des éléments autour.
 
@@ -27,7 +27,8 @@ center  : Permets de centrer un élément
 float_r : Permets de déplacer un élément tout à droite
 
 ----------------------------------------------------------------------
-Comment mettre de la couleur en arrière plan ?
+
+#Comment mettre de la couleur en arrière plan ?
 
 back_red    : Permets de mettre l'arrière plan en rouge.
 
@@ -52,7 +53,8 @@ back_brown  : Permets de mettre l'arrière plan en marron.
 back_white  : Permets de mettre l'arrière plan en blanc.
 
 ----------------------------------------------------------------------
-Comment mettre de la couleur dans son texte ?
+
+#Comment mettre de la couleur dans son texte ?
 
 txt_red    : Permets de mettre le texte en rouge.
 
@@ -76,15 +78,16 @@ txt_brown  : Permets de mettre le texte en marron.
 
 txt_white  : Permets de mettre le texte en blanc.
 
-------------------------------------------------------------------------
-Comment mettre de la couleur dans son texte ?
+----------------------------------------------------------------------
+
+#Comment mettre de la couleur dans son texte ?
 
 txt_center  : Permets de centrer un texte.
 
 txt_size5   : Permets de modifier la taille d'un texte. (txt_size + valeur) 5,10,15,20,25,30
 
 ----------------------------------------------------------------------
-Comment changer la hauteur ou la largeur d'un élément ?
+#Comment changer la hauteur ou la largeur d'un élément ?
 
 w | h | vh  + valeur
 
@@ -97,7 +100,7 @@ Il existe que 100vh pour le moment en valeur
 exemple: vh100 = height: 100vh;
 
 ----------------------------------------------------------------------
-Comment mettre de la marge sur mes éléments sur la partie extérieure ?
+#Comment mettre de la marge sur mes éléments sur la partie extérieure ?
 
 mrg + valeur + option
 
@@ -109,8 +112,9 @@ _t = top
 _b = bottom
 
 Exemple: mrg100_l = margin-left: 100%;
+
 ----------------------------------------------------------------------
-Comment mettre de la marge sur mes éléments sur la partie intérieure ?
+#Comment mettre de la marge sur mes éléments sur la partie intérieure ?
 
 pad + valeur + option
 
