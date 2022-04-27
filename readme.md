@@ -87,7 +87,7 @@ txt_center  : Permets de centrer un texte.
 txt_size5   : Permets de modifier la taille d'un texte. (txt_size + valeur) 5,10,15,20,25,30
 
 ----------------------------------------------------------------------
-# Comment changer la hauteur ou la largeur d'un élément?
+## Comment changer la hauteur ou la largeur d'un élément?
 
 w | h | vh  + valeur
 
@@ -114,7 +114,7 @@ _b = bottom
 Exemple: mrg100_l = margin-left: 100%;
 
 ----------------------------------------------------------------------
-# Comment mettre de la marge sur mes éléments sur la partie intérieure ?
+## Comment mettre de la marge sur mes éléments sur la partie intérieure ?
 
 pad + valeur + option
 
