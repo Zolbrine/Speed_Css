@@ -127,6 +127,7 @@ _b = bottom
 Exemple: mrg100_l = margin-left: 100%;
 
 Si dans le cas ou on veux mettre 0.50 on écrit = mrg050 + option
+
 ----------------------------------------------------------------------
 ## Comment mettre de la marge sur mes éléments sur la partie intérieure ?
 
@@ -145,6 +146,7 @@ _b = bottom
 Exemple: pad100_l = padding-left: 100%;
 
 Si dans le cas ou on veux mettre 0.50 on écrit = pad050 + option
+
 ----------------------------------------------------------------------
 # Comment arrondir les bords ou tout le boutton ?
 
