@@ -14,7 +14,7 @@ On inclus dans le head config.css:
 Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css ou style.css
 
 ----------------------------------------------------------------------
-# Comment espacer des éléments (Mettre class="" dans une div)?
+# Comment espacer ou positionner des éléments?
 
 space_1 : Permets d'espacer des éléments autour.
 
@@ -87,7 +87,7 @@ txt_center  : Permets de centrer un texte.
 txt_size5   : Permets de modifier la taille d'un texte. (txt_size + valeur) 5,10,15,20,25,30
 
 ----------------------------------------------------------------------
-# Comment changer la hauteur ou la largeur d'un élément ?
+# Comment changer la hauteur ou la largeur d'un élément?
 
 w | h | vh  + valeur
 
@@ -100,7 +100,7 @@ Il existe que 100vh pour le moment en valeur
 exemple: vh100 = height: 100vh;
 
 ----------------------------------------------------------------------
-# Comment mettre de la marge sur mes éléments sur la partie extérieure ?
+## Comment mettre de la marge sur mes éléments sur la partie extérieure ?
 
 mrg + valeur + option
 
