@@ -36,6 +36,12 @@ col     : Permets de mettre des éléments en colone
 
 center  : Permets de centrer un élément
 
+align_start : Permets de faire un alignement au début de notre div
+
+align_center: Permets d'aligner au centre de notre div
+
+align_end: Permets d'aligner a la fin de notre div
+
 float_r : Permets de déplacer un élément tout à droite
 
 float_l : Permets de déplacer un élément tout à gauche (valeur par défaut)

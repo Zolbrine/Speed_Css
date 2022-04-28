@@ -30,3 +30,15 @@
 .float_l{
     float: var(--float_l);
 }
+
+.align_start{
+    align-items: var(--start);
+}
+
+.align_center{
+    align-items: var(--center);
+}
+
+.align_end{
+    align-items: var(--end);
+}

@@ -5,7 +5,9 @@
     --space_2: space-between; 
     --center: center;
     --col: column;
-    --grow: 1; 
+    --grow: 1;
+    --start: start; 
+    --end: end;
     --float_r: right;
     --float_l: left; /*Par défaut à gauche*/
 
