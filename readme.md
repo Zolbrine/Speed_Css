@@ -47,6 +47,8 @@ float_r : Permets de déplacer un élément tout à droite
 
 float_l : Permets de déplacer un élément tout à gauche (valeur par défaut)
 
+f_wrap : Permets de placer à la ligne les éléments si pas assez d'espace
+
 ----------------------------------------------------------------------
 # Comment mettre de la couleur en arrière plan ?
 

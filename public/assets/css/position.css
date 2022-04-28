@@ -18,6 +18,11 @@
     flex-direction: var(--col);
 }
 
+.f_wrap{
+    display: var(--flex);
+    flex-wrap: var(--wrap);
+}
+
 .center{
     display: var(--flex);
     justify-content: var(--center);

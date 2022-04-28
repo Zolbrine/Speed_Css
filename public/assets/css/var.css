@@ -10,6 +10,7 @@
     --end: end;
     --float_r: right;
     --float_l: left; /*Par défaut à gauche*/
+    --wrap: wrap;
 
     /*Toutes les couleurs principales*/
     --red: rgb(255, 63, 63);
