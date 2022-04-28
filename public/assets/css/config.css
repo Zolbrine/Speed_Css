@@ -8,7 +8,10 @@
 @import "backgrounds.css";
 
 /*Les couleurs des textes*/
-@import "text.css";
+@import "text_color.css";
+
+/*Paramètres globaux tailles, centre*/
+@import "txt_params.css";
 
 /*Les tailles en largeur*/
 @import "width.css";
