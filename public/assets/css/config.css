@@ -36,3 +36,6 @@
 
 /*Personnalisation des bouttons*/
 @import "buttons.css";
+
+/*Intégration du gap permettant d'espacer tous les éléments à l'intérieur*/
+@import "gap.css";
