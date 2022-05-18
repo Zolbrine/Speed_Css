@@ -3,11 +3,11 @@
 # Pourquoi utiliser speed css ?
 Pour coder rapidement tout en personalisant son contenu.
 
-Coder en évitant de toucher a css le plus possible.
+Coder en évitant de toucher au css le plus possible.
 
 ----------------------------------------------------------------------
 # !!!Nous travaillons qu'avec des classes!!!
-Dans chaque projet tout est paramétrer pour avoir la structure suivante dans chaque page html
+Dans chaque projet, tout est paramétré pour avoir la structure suivante dans chaque page html:
 
 body
 
@@ -15,98 +15,98 @@ body
 
     content // Qui va contenir tous les éléments de notre site
 
-    footer // Qui va contenir les mentions, réseaux sociaux etc..
+    footer // Qui va contenir les mentions, les réseaux sociaux etc..
 
 Pour connecter "Speed Css" à son projet: 
 
-On inclus dans le head config.css:
+On inclut dans le head config.css:
 ```
 <link rel="stylesheet" href="public/assets/css/config.css">
 ```
 
-Si vous voulez rajouter du css personnel , vous pourrez rajouter un main.css ou style.css
+Si vous voulez rajouter du css personnel, vous pourrez rajouter un main.css ou style.css
 
 ----------------------------------------------------------------------
 # Comment espacer ou positionner des éléments?
 
-space_1 : Permets d'espacer des éléments autour.
+space_1 : Permet d'espacer des éléments autour.
 
-space_2 : Permets de espacer des éléments mais 2 collés aux extrémités.
+space_2 : Permet d'espacer des éléments dont deux collés aux extrémités.
 
-col     : Permets de mettre des éléments en colone
+col     : Permet de mettre des éléments en colone
 
-center  : Permets de centrer un élément
+center  : Permet de centrer un élément
 
-align_start : Permets de faire un alignement au début de notre div
+align_start : Permet de faire un alignement au début de notre div
 
-align_center: Permets d'aligner au centre de notre div
+align_center: Permet d'aligner au centre de notre div
 
-align_end: Permets d'aligner a la fin de notre div
+align_end: Permet d'aligner a la fin de notre div
 
-float_r : Permets de déplacer un élément tout à droite
+float_r : Permet de déplacer un élément tout à droite
 
-float_l : Permets de déplacer un élément tout à gauche (valeur par défaut)
+float_l : Permet de déplacer un élément tout à gauche (valeur par défaut)
 
-f_wrap : Permets de placer à la ligne les éléments si pas assez d'espace
+f_wrap : Permet de placer à la ligne les éléments si pas assez d'espace
 
-gap + valeur: Permets d'espacer tous les éléments à l'intérieur de la div en question (exemple: gap50)
+gap + valeur: Permet d'espacer tous les éléments à l'intérieur de la div en question (exemple: gap50)
 
 ----------------------------------------------------------------------
 # Comment mettre de la couleur en arrière plan ?
 
-back_red    : Permets de mettre l'arrière plan en rouge.
+back_red    : Permet de mettre l'arrière plan en rouge.
 
-back_blue   : Permets de mettre l'arrière plan en bleu.
+back_blue   : Permet de mettre l'arrière plan en bleu.
 
-back_green  : Permets de mettre l'arrière plan en vert.
+back_green  : Permet de mettre l'arrière plan en vert.
 
-back_yellow : Permets de mettre l'arrière plan en jaune.
+back_yellow : Permet de mettre l'arrière plan en jaune.
 
-back_orange : Permets de mettre l'arrière plan en orange.
+back_orange : Permet de mettre l'arrière plan en orange.
 
-back_black  : Permets de mettre l'arrière plan en black.
+back_black  : Permet de mettre l'arrière plan en noir.
 
-back_grey   : Permets de mettre l'arrière plan en gris.
+back_grey   : Permet de mettre l'arrière plan en gris.
 
-back_purple : Permets de mettre l'arrière plan en violet.
+back_purple : Permet de mettre l'arrière plan en violet.
 
-back_pink   : Permets de mettre l'arrière plan en rose.
+back_pink   : Permet de mettre l'arrière plan en rose.
 
-back_brown  : Permets de mettre l'arrière plan en marron.
+back_brown  : Permet de mettre l'arrière plan en marron.
 
-back_white  : Permets de mettre l'arrière plan en blanc.
-
-----------------------------------------------------------------------
-# Comment mettre de la couleur dans son texte ?
-
-txt_red    : Permets de mettre le texte en rouge.
-
-txt_blue   : Permets de mettre le texte en bleu.
-
-txt_green  : Permets de mettre le texte en vert.
-
-txt_yellow : Permets de mettre le texte en jaune.
-
-txt_orange : Permets de mettre le texte en orange.
-
-txt_black  : Permets de mettre le texte en black.
-
-txt_grey   : Permets de mettre le texte en gris.
-
-txt_purple : Permets de mettre le texte en violet.
-
-txt_pink   : Permets de mettre le texte en rose.
-
-txt_brown  : Permets de mettre le texte en marron.
-
-txt_white  : Permets de mettre le texte en blanc.
+back_white  : Permet de mettre l'arrière plan en blanc.
 
 ----------------------------------------------------------------------
 # Comment mettre de la couleur dans son texte ?
 
-txt_center  : Permets de centrer un texte.
+txt_red    : Permet de mettre le texte en rouge.
 
-txt_size5   : Permets de modifier la taille d'un texte. (txt_size + valeur) 5,10,15,20,25,30
+txt_blue   : Permet de mettre le texte en bleu.
+
+txt_green  : Permet de mettre le texte en vert.
+
+txt_yellow : Permet de mettre le texte en jaune.
+
+txt_orange : Permet de mettre le texte en orange.
+
+txt_black  : Permet de mettre le texte en noir.
+
+txt_grey   : Permet de mettre le texte en gris.
+
+txt_purple : Permet de mettre le texte en violet.
+
+txt_pink   : Permet de mettre le texte en rose.
+
+txt_brown  : Permet de mettre le texte en marron.
+
+txt_white  : Permet de mettre le texte en blanc.
+
+----------------------------------------------------------------------
+# Comment mettre de la couleur dans son texte ?
+
+txt_center  : Permet de centrer un texte.
+
+txt_size5   : Permet de modifier la taille d'un texte. (txt_size + valeur) 5,10,15,20,25,30
 
 ----------------------------------------------------------------------
 ## Comment changer la hauteur ou la largeur d'un élément?
@@ -117,7 +117,7 @@ exemple: w100 = width: 100%;
 
 exemple: h100 = height: 100%;
 
-Il existe que 100vh pour le moment en valeur
+Il n'existe que 100vh pour le moment en valeur
 
 exemple: vh100 = height: 100vh;
 
@@ -138,7 +138,7 @@ _b = bottom
 
 Exemple: mrg100_l = margin-left: 100%;
 
-Si dans le cas ou on veux mettre 0.50 on écrit = mrg050 + option
+Dans le cas où on veux mettre 0.50 on écrit = mrg050 + option
 
 ----------------------------------------------------------------------
 ## Comment mettre de la marge sur mes éléments sur la partie intérieure ?
@@ -160,8 +160,8 @@ Exemple: pad100_l = padding-left: 100%;
 Si dans le cas ou on veux mettre 0.50 on écrit = pad050 + option
 
 ----------------------------------------------------------------------
-# Comment arrondir les bords ou tout le boutton ?
+# Comment arrondir les bords ou tout le bouton ?
 
-btn_1 = border-radius: 10px; | Arrondis les bords du boutton
+btn_1 = border-radius: 10px; | Arrondit les bords du bouton
 
-btn_2 = border-radius: 50%;  | Fais une boule 
+btn_2 = border-radius: 50%;  | Fait une boule 
