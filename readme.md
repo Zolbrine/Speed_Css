@@ -6,7 +6,7 @@ Pour coder rapidement tout en personalisant son contenu.
 Coder en évitant de toucher au css le plus possible.
 
 ----------------------------------------------------------------------
-# !!!Nous travaillons qu'avec des classes!!!
+# !!!Nous ne travaillons qu'avec des classes!!!
 Dans chaque projet, tout est paramétré pour avoir la structure suivante dans chaque page html:
 
 body
