@@ -49,7 +49,9 @@ float_l : Permet de déplacer un élément tout à gauche (valeur par défaut)
 
 f_wrap : Permet de placer à la ligne les éléments si pas assez d'espace
 
-gap + valeur: Permet d'espacer tous les éléments à l'intérieur de la div en question (exemple: gap50)
+gap + valeur : Permet d'espacer tous les éléments à l'intérieur de la div en question (exemple: gap50)
+
+display_none : Permet de faire disparaitre un élément 
 
 ----------------------------------------------------------------------
 # Comment mettre de la couleur en arrière plan ?
