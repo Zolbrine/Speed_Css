@@ -47,3 +47,7 @@
 .align_end{
     align-items: var(--end);
 }
+
+.display_none{
+    display: var(--none);
+}
