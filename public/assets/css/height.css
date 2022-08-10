@@ -402,7 +402,3 @@
 .h100{
     height: var(--prc100);
 }
-
-.vh100{
-    height: var(--vh100);
-}
