@@ -18,6 +18,7 @@
 
 /*Les tailles en hauteur*/
 @import "height.css";
+@import "vh.css";
 
 /*Les paramètres de projet*/
 @import "projet.css";
