@@ -46,3 +46,43 @@
 .txt_size50{
     font-size: var(--px50);
 }
+
+.txt_size55{
+    font-size: var(--px55);
+}
+
+.txt_size60{
+    font-size: var(--px60);
+}
+
+.txt_size65{
+    font-size: var(--px65);
+}
+
+.txt_size70{
+    font-size: var(--px70);
+}
+
+.txt_size75{
+    font-size: var(--px75);
+}
+
+.txt_size80{
+    font-size: var(--px80);
+}
+
+.txt_size85{
+    font-size: var(--px85);
+}
+
+.txt_size90{
+    font-size: var(--px90);
+}
+
+.txt_size95{
+    font-size: var(--px95);
+}
+
+.txt_size100{
+    font-size: var(--px100);
+}
