@@ -1,42 +1,68 @@
-/*Mes variables*/
-@import "var.css";
-
-/*Positionnement des éléments à l'intéreur d'une div*/
-@import "position.css";
+/*
+DOSSIER COLORS
+*/
 
 /*Les couleurs des backgrouds*/
-@import "backgrounds.css";
+@import "colors/backgrounds.css";
 
 /*Les couleurs des textes*/
-@import "text_color.css";
+@import "colors/text_color.css";
 
-/*Paramètres globaux tailles, centre*/
-@import "txt_params.css";
 
-/*Les tailles en largeur*/
-@import "width.css";
 
-/*Les tailles en hauteur*/
-@import "height.css";
-@import "vh.css";
-
-/*Les paramètres de projet*/
-@import "projet.css";
-
+/*
+DOSSIER MARGES
+*/
 /*Les marges*/
-@import "margin_top.css";
-@import "margin_right.css";
-@import "margin_bottom.css";
-@import "margin_left.css";
+@import "marges/margin_top.css";
+@import "marges/margin_right.css";
+@import "marges/margin_bottom.css";
+@import "marges/margin_left.css";
 
 /*Les marges intérieures*/
-@import "padding_top.css";
-@import "padding_right.css";
-@import "padding_bottom.css";
-@import "padding_left.css";
+@import "marges/padding_top.css";
+@import "marges/padding_right.css";
+@import "marges/padding_bottom.css";
+@import "marges/padding_left.css";
 
+
+
+/*
+DOSSIER PARAMS
+*/
+/*Les paramètres de projet*/
+@import "params/projet.css";
+/*Mes variables*/
+@import "params/var.css";
+
+
+
+/*
+DOSSIER OTHERS
+*/
+/*Positionnement des éléments à l'intéreur d'une div*/
+@import "others/position.css";
+/*Paramètres globaux tailles, centre*/
+@import "others/txt_params.css";
 /*Personnalisation des bouttons*/
-@import "buttons.css";
+@import "others/buttons.css";
 
+
+
+/*
+DOSSIER TAILLES
+*/
+/*Les tailles en largeur*/
+@import "tailles/width.css";
 /*Intégration du gap permettant d'espacer tous les éléments à l'intérieur*/
-@import "gap.css";
+@import "tailles/gap.css";
+/*Les tailles en hauteur*/
+@import "tailles/height.css";
+@import "tailles/vh.css";
+/*Les tailles de texte*/
+@import "tailles/text_size.css";
+
+
+
+/*Mes Modifications*/
+@import "main.css";

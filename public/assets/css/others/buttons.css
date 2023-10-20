@@ -1,0 +1,11 @@
+.btn_1{
+    border-radius: var(--px12);
+}
+
+.btn_2{
+    border-radius: var(--prc50);
+}
+
+.b-none{
+    border: var(--none);
+}

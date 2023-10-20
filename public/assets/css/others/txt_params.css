@@ -1,0 +1,16 @@
+/*
+||||||||||||||||||
+|| Texte Params ||
+||||||||||||||||||
+*/
+.txt_center{
+    text-align: var(--center);
+}
+
+.txt_bold{
+    font-weight: var(--bold);
+}
+
+.txt_none{
+    text-decoration: var(--none);
+}
